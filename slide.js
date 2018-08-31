@@ -1,0 +1,1 @@
+$('#_ft-arletha img').each(function(){$(this).attr('src',$(this).attr('src').replace(/\/s[0-9]+(\-c)?\//,'/w160-h220-c/'))});
